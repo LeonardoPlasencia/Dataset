@@ -12,7 +12,7 @@ def download_data():
   
 download_data()
 data = pd.read_csv("data.csv", sep = ";", nrows = 1000000, parse_dates = ["FECHA_CORTE","FECHA_RESULTADO"])
-st.dataframe(data.head(20))
+st.dataframe(data)
 
 edades = data["EDAD"]
 st.line_chart(edades)
