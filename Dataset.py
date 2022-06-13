@@ -1,7 +1,5 @@
 import streamlit as st
 import pandas as pd
-import numpy as np
-import urllib.request
 import gdown
 
 #id = 1op-iq0XhBXBQOPlagCPE9TzFsFkkNVjQ
