@@ -21,7 +21,7 @@ DICT = {"Amazonas": ["Chachapoyas","Bagua","Bongara","Condorcanqui","Luya","Rodr
         "Huancavelica":["Huancavelica","Acobamba","Angaraes","Castrovirreyna","Churcampa","Huaytara","Tayacaja"],
         "Huánuco":["Huánuco","Dos de Mayo","Huacaybamba","Huamalies",
                    "Leoncio Prado","Pachitea","Puerto Inca","Lauricocha","Yarowilca"],
-        "Ica":[Ica,"Chincha","Nazca","Palpa","Pisco"],
+        "Ica":["Chincha","Nazca","Palpa","Pisco"],
         "Junín":["Huancayo","Concepción","Chanchamayo","Jauja",
                  "Junín","Satipo","Tarma","Yauli","Chupaca"],
         "La Libertad":["Trujillo","Ascope","Bolivar","Chepen","Julcán","Otuzco",
