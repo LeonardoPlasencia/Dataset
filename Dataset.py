@@ -79,5 +79,4 @@ def download_data():
 download_data()
 data = pd.read_csv("data.csv", sep = ";", parse_dates = ["FECHA_CORTE","FECHA_RESULTADO"])
 Simplificado = data.drop(columns = ["DISTRITO","FECHA_CORTE","FECHA_RESULTADO","UBIGEO","id_persona"])
-st.dataframe(Simplificado)
 
