@@ -2,6 +2,7 @@ import streamlit as st
 import pandas as pd
 import gdown
 
+st.title("Proyecto Programación")
 #id = 1op-iq0XhBXBQOPlagCPE9TzFsFkkNVjQ
 @st.experimental_memo
 def download_data():
